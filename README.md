@@ -9,7 +9,7 @@
 )](https://www.twitch.tv/doqpek)
 
 ![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=douglasrmachado&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmachado&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmachado&showicons=true&theme=transparent)
 
 ### Tecnologias que estou aprendendo
 <div style="display: inline_block"><br/>
