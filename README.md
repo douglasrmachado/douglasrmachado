@@ -21,5 +21,3 @@
   <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div><br>
 
-Tentando melhorar a cada dia, dando um passo de cada vez. 🧩
-
