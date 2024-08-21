@@ -10,7 +10,7 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=douglasrmachado&show_icons=true&bg_color=191970&text_color=ebdbb2&title_color=191970&icon_color=191970&border_color=191970&border_radius=10px"
+    src="https://github-readme-stats.vercel.app/api?username=douglasrmachado&show_icons=true&bg_color=191970&text_color=B0C4DE&title_color=191970&icon_color=191970&border_color=191970&border_radius=10px"
   />
   <img
     width="49%"
