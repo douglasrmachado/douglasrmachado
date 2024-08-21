@@ -15,7 +15,7 @@
   <img
     width="49%"
     height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmachado&layout=compact&bg_color=191970&text_color=191970&title_color=191970&border_color=191970&border_radius=10px"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmachado&layout=compact&bg_color=191970&text_color=778899&title_color=778899&border_color=778899&border_radius=10px"
   />
 </div>
 
