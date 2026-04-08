@@ -1,20 +1,63 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8A2BE2&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=52120&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Douglas+Machado;I'm+23+years+old;Be+Welcome!)](https://git.io/typing-svg)
+<h1 align="center">Douglas Roque Machado</h1>
 
-<div>
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api?username=douglasrmachado&show_icons=true&bg_color=191970&text_color=B0C4DE&title_color=191970&icon_color=191970&border_color=191970&border_radius=10px"
-  />
-  <img
-    width="49%"
-    height="195px"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasrmachado&layout=compact&bg_color=191970&text_color=B0C4DE&title_color=778899&border_color=778899&border_radius=10px"
-  />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=7A1CAC&size=28&center=true&vCenter=true&width=800&lines=Technical+Writer;API+%26+SaaS+Documentation;AI-Enhanced+Documentation" />
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=douglasrmachado&bg_color=191970&color=B0C4DE&line=778899&point=778899&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <i>“Preoccupied with a single leaf… you won’t see the tree.”</i><br/>
+  <sub>— Vagabond</sub>
+</p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+---
+
+## 💫 About Me
+
+- 📍 Currently at **WriteChoice**  
+- 🧩 Technical Writer focused on **APIs & SaaS**  
+- 🤖 Exploring **AI-augmented documentation systems**  
+- 🎯 I tend to dissect documentation deeper than the problem itself  
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/douglasrmachado/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/doqpek/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,git,github,notion,postman,vscode,md" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mintlify-0F172A?style=flat&logo=readthedocs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ReadMe-018EF5?style=flat&logo=readme&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Antigravity-6A0DAD?style=flat&logo=airplayvideo&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img height="150em" src="https://streak-stats.demolab.com?user=douglasrmachado&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📊 Contribution Flow
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasrmachado&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
