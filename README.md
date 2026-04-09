@@ -1,9 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:8A2BE2&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:2563EB&height=120&section=header"/>
 
 <h1 align="center">Douglas Roque Machado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=7A1CAC&size=28&center=true&vCenter=true&width=800&lines=Technical+Writer;API+%26+SaaS+Documentation;AI-Enhanced+Documentation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=28&center=true&vCenter=true&width=800&lines=Technical+Writer;API+%26+SaaS+Documentation;AI-Enhanced+Documentation" />
 </p>
 
 <p align="center">
@@ -49,15 +49,15 @@
 ---
 
 <p align="center">
-  <img height="150em" src="https://streak-stats.demolab.com?user=douglasrmachado&theme=tokyonight&hide_border=true" />
+  <img height="150em" src="https://streak-stats.demolab.com?user=douglasrmachado&hide_border=true&theme=tokyonight&background=0D1B2A&stroke=1E3A8A&ring=2563EB&fire=1E40AF&currStreakNum=60CFFF" />
 </p>
 
 ## 📊 Contribution Flow
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasrmachado&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=douglasrmachado&hide_border=true&theme=react&color=2563EB" />
 </p>
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E3A8A&height=120&section=footer"/>
