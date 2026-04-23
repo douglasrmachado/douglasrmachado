@@ -3,7 +3,7 @@
 <h1 align="center">Douglas Roque Machado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=28&center=true&vCenter=true&width=800&lines=Technical+Writer;API+%26+SaaS+Documentation;AI-Enhanced+Documentation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=28&center=true&vCenter=true&width=800&lines=Technical+Writer;Full-Stack+Developer;APIs+%26+SaaS+Documentation;AI-Enhanced+Documentation;" />
 </p>
 
 <p align="center">
@@ -15,10 +15,11 @@
 
 ## 💫 About Me
 
-- 📍 Currently at **WriteChoice**  
-- 🧩 Technical Writer focused on **APIs & SaaS**  
+- 📍 Technical Writer at **WriteChoice**  
+- 🧩 Technical Writer & Full-Stack Developer focused on **APIs & SaaS**  
+- 🎓 Systems Analysis and Development graduate  
 - 🤖 Exploring **AI-augmented documentation systems**  
-- 🎯 I tend to dissect documentation deeper than the problem itself  
+- 🎯 I tend to dissect systems and documentation beyond the surface 
 
 ---
 
